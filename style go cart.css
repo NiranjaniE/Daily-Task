@@ -1,0 +1,29 @@
+﻿body {
+    
+    background-color: rgb(72, 185, 151);
+}
+
+img {
+    height: 500;
+    width: 500;
+}
+
+div {
+    border-color:white;
+    border-width: 3px;
+    border-radius: 10px;
+    border-style: solid;
+    height: 250px;
+    width: 250px;
+    float: left;
+    margin: 20px 3.5px;
+    background-color: rgb(112, 205, 241);
+    padding-left: 30px;
+}
+
+    div:hover {
+        color: deeppink;
+        background-color:black;
+        transform:translateY(25px)
+    }
+
